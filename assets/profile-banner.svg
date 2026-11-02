@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+<title id="title">Frontend · AI · Automation</title>
+<desc id="desc">Vue, TypeScript, AI interfaces. From complex workflows to clear user experiences.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1020"/><stop offset="1" stop-color="#142c39"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#66efd0"/><stop offset="1" stop-color="#87baff"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#a8e8f3" stroke-opacity=".045"/></pattern>
+</defs>
+<rect width="1280" height="420" rx="24" fill="url(#bg)"/>
+<rect width="1280" height="420" rx="24" fill="url(#grid)"/>
+<circle cx="1100" cy="80" r="220" fill="#57deb8" opacity=".035"/>
+<circle cx="1100" cy="80" r="160" fill="none" stroke="#66efd0" stroke-opacity=".12"/>
+<path d="M0 397H1280" stroke="url(#accent)" stroke-width="3"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<rect x="64" y="52" width="254" height="30" rx="15" fill="#66efd0" fill-opacity=".1"/>
+<circle cx="82" cy="67" r="4" fill="#66efd0"/>
+<text x="96" y="72" font-size="12" letter-spacing="2" fill="#9cf4df">FRONTEND · AI · AUTOMATION</text>
+<text x="60" y="162" font-size="64" font-weight="700" letter-spacing="-2" fill="#f2f7ff">Frontend Engineer</text>
+<text x="64" y="211" font-size="25" fill="#a5b8cc">Complex workflows. Clear interfaces.</text>
+<text x="64" y="290" font-size="17" fill="#c3d1e0">Vue &amp; TypeScript · Microfrontends · AI / MCP</text>
+<text x="1190" y="346" text-anchor="end" font-size="14" fill="#89a2ba" letter-spacing="2">ANIMUSHKA / GITHUB</text>
+</g>
+<g transform="translate(910 135)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M0 0H100V92H200M100 0H200M100 92V164H200" stroke="#6a8ba1" stroke-width="2"/>
+<g fill="#162f3c" stroke="#66efd0" stroke-width="2"><rect x="-24" y="-24" width="48" height="48" rx="12"/><rect x="76" y="68" width="48" height="48" rx="12"/><rect x="176" y="-24" width="48" height="48" rx="12"/><rect x="176" y="68" width="48" height="48" rx="12"/><rect x="176" y="140" width="48" height="48" rx="12"/></g>
+<path d="M-7 0H7M0-7V7M93 92H107M193-5L200 2L207-5M193 92H207M193 164H207" stroke="#b0cfff" stroke-width="2"/>
+</g>
+</svg>
